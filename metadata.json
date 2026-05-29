@@ -1,0 +1,6 @@
+{
+  "name": "Odia Ludo - ଓଡ଼ିଆ ଲୁଡୋ",
+  "description": "An authentic Ludo game in Odia featuring legendary folklore characters, synthesized traditional Mardala drums and Mahuri woodwinds, voice announcements, and live highlights streaming to Google Chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
